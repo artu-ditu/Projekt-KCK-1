@@ -1,0 +1,50 @@
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\Komunikacja Człowiek-Komputer - Projekt 1.exe.config
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\Komunikacja Człowiek-Komputer - Projekt 1.exe
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\Komunikacja Człowiek-Komputer - Projekt 1.pdb
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.csprojResolveAssemblyReference.cache
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.exe
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.pdb
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\WelcomeScreen-English.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\WelcomeScreen-Polish.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\ThemeSelectionScreen-English-Dark.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\ThemeSelectionScreen-English-Normal.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\ThemeSelectionScreen-Polish-Dark.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\ThemeSelectionScreen-Polish-Normal.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\TottenhamLiverpool-English.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\TottenhamLiverpool-Polish.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\asystenci.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\strzelcy.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\tabela.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\terminarz.txt
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Interop.MediaPlayer.dll
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Interop.WMPDXMLib.dll
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Interop.WMPLauncher.dll
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Interop.WMPLib.dll
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.csproj.ResolveComReference.cache
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\PremierLeagueMusic.wav
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\asystenci.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\PremierLeagueMusic.wav
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\strzelcy.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\tabela.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\terminarz.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\ThemeSelectionScreen-English-Dark.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\ThemeSelectionScreen-English-Normal.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\ThemeSelectionScreen-Polish-Dark.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\ThemeSelectionScreen-Polish-Normal.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\TottenhamLiverpool-English.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\TottenhamLiverpool-Polish.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\WelcomeScreen-English.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\WelcomeScreen-Polish.txt
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\Komunikacja Człowiek-Komputer - Projekt 1.exe.config
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\Komunikacja Człowiek-Komputer - Projekt 1.exe
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\bin\Debug\Komunikacja Człowiek-Komputer - Projekt 1.pdb
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.csprojResolveAssemblyReference.cache
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Interop.MediaPlayer.dll
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Interop.WMPDXMLib.dll
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Interop.WMPLauncher.dll
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Interop.WMPLib.dll
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.csproj.ResolveComReference.cache
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.csproj.CoreCompileInputs.cache
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.exe
+D:\Studia\GitHub\KCK-Projekt-1\Komunikacja Człowiek-Komputer - Projekt 1\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 1.pdb
